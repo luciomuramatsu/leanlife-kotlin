@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dcdcdc</color>
+    <color name="colorPrimaryDark">#ff3232</color>
+    <color name="textColorPrimary">#333333</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#333333</color>
+
+    <color name="btncancel">#ff6464</color>
+    <color name="btncancel2">#f00000</color>
+
+    <color name="tab_background_selected">#ff3232</color>
+    <color name="tab_background_unselected">#ff3232</color>
+
+    <color name="tab_background_selected2">#ff3232</color>
+    <color name="tab_background_unselected2">#ff3232</color>
+
+    <color name="primary">#dcdcdc</color>
+    <color name="primary_dark">#ff3232</color>
+    <color name="primary_darker">#c82828</color>
+    <color name="primary_dark2">#DCDCDC</color>
+    <color name="primary_darker2">#BEBEBE</color>
+    <color name="accent">#333333</color>
+
+    <color name="face_dark">#3b5998</color>
+    <color name="face_darker">#8b9dc3</color>
+
+    <color name="google_dark">#d34836</color>
+    <color name="google_darker">#be3e2c</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+</resources>

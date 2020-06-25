@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            app:elevation="0dp">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimaryDark"
+                app:titleTextColor="@android:color/white"
+                app:subtitleTextColor="@android:color/white"
+                app:popupTheme="@style/AppTheme.PopupOverlay"
+                app:elevation="0dp">
+
+
+
+                <ImageView
+                    android:id="@+id/trofeuf"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_marginRight="3dp"
+                    android:adjustViewBounds="true"
+                    android:layout_gravity="right"
+                    android:src="@drawable/save"/>
+
+
+
+                <ImageView
+                    android:id="@+id/trofeuf2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_marginRight="3dp"
+                    android:adjustViewBounds="true"
+                    android:layout_gravity="right"
+                    android:src="@drawable/videotutorial"/>
+
+                <ImageView
+                    android:id="@+id/trofeuf3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_marginRight="8dp"
+                    android:adjustViewBounds="true"
+                    android:layout_gravity="right"
+                    android:src="@drawable/questionchat"/>
+
+                <TextView
+                    android:id="@+id/titulotela"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:layout_gravity="left"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18dp"
+                    android:text="LEANLIFE"/>
+
+            </android.support.v7.widget.Toolbar>
+        </android.support.design.widget.AppBarLayout>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFF"
+            app:tabTextAppearance="@style/MineCustomTabText"
+            android:layout_alignParentTop="true"
+            app:tabMaxWidth="0dp"
+            app:tabGravity="fill"
+            app:tabMode="fixed"
+            app:tabIndicatorColor="#D9D9D9"
+            app:tabIndicatorHeight="4dp"
+            app:tabTextColor="#fff"
+            app:tabBackground="@drawable/tab_color_selector"
+            app:tabSelectedTextColor="#fff"
+            />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFF"/>
+
+
+
+    </LinearLayout>
+    <!--<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+        >
+
+        <LinearLayout
+            android:id="@+id/paginaaviso"
+            android:layout_gravity="bottom|end"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="vertical"
+            android:background="#FF0000"
+            android:padding="5dp"
+            android:color="#FFF">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/msgpaginaaviso"
+                    android:layout_width="0dp"
+                    android:layout_weight="0.9"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFF"
+                    android:textSize="16dp"
+                    android:text=""/>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1">
+
+                    <ImageView
+                        android:id="@+id/closepaginaaviso"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_gravity="top|end"
+                        android:src="@drawable/closeicon"/>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </android.support.design.widget.CoordinatorLayout>-->
+</android.support.v4.widget.DrawerLayout>
+

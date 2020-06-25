@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "782607624418",
+    "firebase_url": "https://fir-leanlife.firebaseio.com",
+    "project_id": "firebase-leanlife",
+    "storage_bucket": "firebase-leanlife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782607624418:android:e1313ec87fe04c3e",
+        "android_client_info": {
+          "package_name": "com.br.leanlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782607624418-0hcq9p17lu36gln3bceh7kjiuv8hs9f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.leanlife",
+            "certificate_hash": "68c5878301ffe2f2ddefc90963ad40aee9616ab5"
+          }
+        },
+        {
+          "client_id": "782607624418-79kdl482ep8jk4hhpalm811c232orams.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "782607624418-pofslu5bb5cjoc7u46prp74f0s5sa66t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-hz6T2pLNXyHre-oCbICscjASlMjBsw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782607624418-79kdl482ep8jk4hhpalm811c232orams.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782607624418-7ti3r1035aiu2vf2d86fdimiijjt4fca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "PD52GNNZRR2",
+                "app_store_id": "1187369256"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

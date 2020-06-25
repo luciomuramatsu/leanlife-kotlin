@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="android:windowBackground">@color/primary</item>
+
+        <item name="colorControlNormal">@color/monsoon</item>
+        <item name="colorControlActivated">@color/monsoon</item>
+        <item name="colorControlHighlight">@color/monsoon</item>
+        <item name="android:textColorHint">@color/monsoon</item>
+
+    </style>
+    <style name="barGrapButtons">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:gravity">center|center_horizontal</item>
+        <item name="android:clickable">true</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:layout_marginLeft">1dp</item>
+    </style>
+    <style name="AppTheme.Dark.Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorPrimary">@color/iron</item>
+        <item name="android:background">@color/primary</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="MyTheme" parent="@style/Theme.AppCompat">
+        <item name="colorPrimary">#212121</item>
+        <item name="titleTextColor">#FFFFFF</item>
+        <item name="actionMenuTextColor">#FFFFFF</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+</resources>

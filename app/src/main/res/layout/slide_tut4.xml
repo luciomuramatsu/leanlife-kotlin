@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    android:gravity="top|center">
+
+    <ImageView
+        android:layout_marginTop="30dp"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:src="@drawable/full_1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/divisao1"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="32dp"
+        android:text="@string/tut4_1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+        <android.support.v7.widget.AppCompatButton
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_enter1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:padding="12dp"
+            android:background="@drawable/button_colorface"
+            android:textColor="#FFFFFF"
+            android:drawableLeft="@drawable/facebook_icon"
+            android:text="@string/tut4_2"/>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_enter2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:padding="12dp"
+            android:background="@drawable/button_colorgoogle"
+            android:textColor="#FFFFFF"
+            android:drawableLeft="@drawable/google_plus_icon"
+            android:text="@string/tut4_3"/>
+    </LinearLayout>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="14dp"
+        android:text="@string/tut4_4"/>
+
+    <TextView
+        android:id="@+id/btn_enter3"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:text="@string/tut4_5"/>
+
+
+</LinearLayout>

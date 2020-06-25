@@ -1,0 +1,439 @@
+<resources>
+    <string name="app_name">LEANLIFE</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="server_client_id">782607624418-8qhtlb18o48scqu4votg988m9fo1k6pc.apps.googleusercontent.com</string>
+    <string name="faceid">203933656705563</string>
+    <string name="crop_image_menu_crop">Crop</string>
+
+    <!-- Tutorial 1 -->
+    <string name="tut1_1">TU SOCIO</string>
+    <string name="tut1_2">DE LA ACADEMIA</string>
+    <string name="tut1_3">LEANLIFE genera rutinas de entrenamiento personalizados divididos en LeanCycles que cursan con su formación y uso.</string>
+    <string name="tut1_4">Pase a la izquieda para continuar</string>
+
+    <!-- Tutorial 2 -->
+    <string name="tut2_1">UNA NUEVA SESIÓN</string>
+    <string name="tut2_2">TODOS LOS DÍAS</string>
+    <string name="tut2_3">Cada LeanCycle se genera de forma única, siendo siempre diferentes sesiones de entrenamiento.\nEs mucho veriação para mantener su progreso constante!</string>
+    <string name="tut2_4">Pase a la izquieda para continuar</string>
+
+    <!-- Tutorial 3 -->
+    <string name="tut3_1">APROBADO</string>
+    <string name="tut3_2">POR LA CIENCIA</string>
+    <string name="tut3_3">LeanCycle sigue el concepto de periodización, un estímulo de entrenamiento progresivo que ayuda a ganar fuerza, el músculo y la pérdida de grasa.</string>
+    <string name="tut3_4">Pase a la izquieda para continuar</string>
+
+    <!-- Tutorial 4 -->
+    <string name="tut4_1">Siempre en forma!.</string>
+    <string name="tut4_2">Abre una cuenta con Facebook</string>
+    <string name="tut4_3">Abre una cuenta con Google</string>
+    <string name="tut4_4">Abre una cuenta o Acceder con correo eletrctrônico</string>
+    <string name="tut4_5">Haga clic aquí</string>
+    <string name="tut4_pos1">Error al comprobar la cuenta</string>
+    <string name="tut4_pos2">Compruebe su conexión a Internet.</string>
+    <string name="tut4_pos3">Espera</string>
+    <string name="tut4_pos4">Comprobando cuenta ...</string>
+
+    <!-- Login -->
+    <string name="login_1">Login con Facebook</string>
+    <string name="login_2">Login con Google</string>
+    <string name="login_3">O</string>
+    <string name="login_4">Email</string>
+    <string name="login_5">Contraseña</string>
+    <string name="login_6">Olvidaste tu contraseña?</string>
+    <string name="login_7">Login</string>
+    <string name="login_8">No tiene una cuenta? Abre una cuenta</string>
+    <string name="login_pos1">Error al entrar en la cuenta</string>
+    <string name="login_pos2">Compruebe que sus datos son correctos ...</string>
+
+    <!-- Cadastro -->
+    <string name="cadastro_0">Inscripción</string>
+    <string name="cadastro_1">Inscripción en el Facebook</string>
+    <string name="cadastro_2">Inscripción en el Google</string>
+    <string name="cadastro_3">O</string>
+    <string name="cadastro_4">Nombre</string>
+    <string name="cadastro_5">Email</string>
+    <string name="cadastro_6">Contraseña</string>
+    <string name="cadastro_7">Regístrate</string>
+    <string name="cadastro_8">Terms and Conditions</string>
+    <string name="cadastro_9">and</string>
+    <string name="cadastro_10">Privacy Policy</string>
+    <string name="cadastro_11">Tener una cuenta? Pulse aquí</string>
+    <string name="cadastro_pos1">Creando cuenta ...</string>
+    <string name="cadastro_pos2">Datos faltantes</string>
+    <string name="cadastro_pos3">Rellene el campo de nombre ...</string>
+    <string name="cadastro_pos4">Rellene el campo de correo electrónico ...</string>
+    <string name="cadastro_pos5">Rellene el campo de contraseña ...</string>
+    <string name="cadastro_pos6">Error al crear cuenta</string>
+    <string name="cadastro_pos7">Vuelve a intentarlo con otro email ...</string>
+
+    <!-- Esqueci Senha -->
+    <string name="esqueci_0">Olvido contraseña</string>
+    <string name="esqueci_1">Email</string>
+    <string name="esqueci_2">Enviar enlace para restablecer contraseña</string>
+    <string name="esqueci_3">Atrás para iniciar sesión</string>
+    <string name="esqueci_pos1">Espera</string>
+    <string name="esqueci_pos2">Enviando datos ...</string>
+    <string name="esqueci_pos3">Éxito al pedir contraseña</string>
+    <string name="esqueci_pos4">Compruebe su correo electrónico y siga los pasos para cambiar su contraseña ...</string>
+    <string name="esqueci_pos5">Error al pedir cambio de contraseña</string>
+    <string name="esqueci_pos6">Asegúrese de que su correo electrónico es correcto ...</string>
+
+    <!-- Step 1 -->
+    <string name="step1_1">Hola User,\nVamos a empezar!</string>
+    <string name="step1_2">Un LeanCycle tiene cuatro etapas de entrenamiento.\n Cada etapa tiene cuatro sesiones.\n Cada LeanCycle es más difícil que el anterior.</string>
+    <string name="step1_3">Comience su primer LeanCycle</string>
+    <string name="step1_4">Puede actualizar sus preferencias más adelante cuando lo desee.</string>
+
+    <!-- Step 2 -->
+    <string name="step2_1">PASO 1/5</string>
+    <string name="step2_2">OBJETIVO PRINCIPAL</string>
+    <string name="step2_3">Hasta 2 opciones</string>
+    <string name="step2_4">Perder grasa</string>
+    <string name="step2_5">Aumento de la masa muscular</string>
+    <string name="step2_6">El rendimiento deportivo</string>
+    <string name="step2_7">Aumento de la fuerza</string>
+    <string name="step2_8">Bienestar general</string>
+    <string name="step2_pos1">Error al seleccionar</string>
+    <string name="step2_pos2">Sólo puede seleccionar hasta 2 opciones</string>
+    <string name="step2_pos3">Error al continuar</string>
+    <string name="step2_pos4">Debe seleccionar al menos 1 opción</string>
+
+    <!-- Step 3 -->
+    <string name="step3_1">PASO 2/5</string>
+    <string name="step3_2">NIVEL DE ACTIVIDAD</string>
+    <string name="step3_3">Sedentaria</string>
+    <string name="step3_4">No entrenado durante años</string>
+    <string name="step3_5">Ativo</string>
+    <string name="step3_6">Exercício leve a intenso 2 - 3 vezes por semana</string>
+    <string name="step3_7">Muito ativo</string>
+    <string name="step3_8">Exercício leve a intenso 4 - 5 vezes por semana</string>
+    <string name="step3_9">Atleta</string>
+    <string name="step3_10">Exercício intenso 6 ou mais vezes por semana</string>
+    <string name="step3_pos1">Error al continuar</string>
+    <string name="step3_pos2">Sólo puede seleccionar una opción</string>
+
+    <!-- Step 4 -->
+    <string name="step4_1">PASO 3/5</string>
+    <string name="step4_2">STATUS BASICO</string>
+    <string name="step4_3">Usamos estos para generar su rutina de entrenamiento.</string>
+    <string name="step4_4">Gênero</string>
+    <string name="step4_5">Fecha de cumplaños</string>
+    <string name="step4_6">Unidad de medida</string>
+    <string name="step4_7">Altura</string>
+    <string name="step4_8">Peso</string>
+    <string name="step4_pos1">Seleccione la fecha</string>
+    <string name="step4_pos2">Masculino</string>
+    <string name="step4_pos3">Femenino</string>
+    <string name="step4_pos4">Error al continuar</string>
+    <string name="step4_pos5">Elegir un género</string>
+    <string name="step4_pos6">Elige una fecha de cumpleaños</string>
+    <string name="step4_pos7">Seleccione una unidad de medida</string>
+    <string name="step4_pos8">Rellene su altura</string>
+    <string name="step4_pos9">Rellene su peso</string>
+
+    <!-- Step 5 -->
+    <string name="step5_1">PASO 4/5</string>
+    <string name="step5_2">META FITNESS</string>
+    <string name="step5_3">No se preocupe, se puede cambiar esto más adelante.</string>
+    <string name="step5_4">Duración de la sesión (min)</string>
+    <string name="step5_5">Grupo muscular para enfatizar</string>
+    <string name="step5_pos1">Error al continuar</string>
+    <string name="step5_pos2">Seleccione la duración de la sesión</string>
+    <string name="step5_pos3">Seleccione áreas de enfatización</string>
+    <string name="step5_pos4">Escolha ></string>
+
+    <!-- Step 5b -->
+    <string name="step4b_1">PASO 4/5</string>
+    <string name="step4b_2">ENFATIZAR</string>
+    <string name="step4b_3">Debes elegir 3 grupos musculares.</string>
+    <string name="step4b_4">Salvar</string>
+    <string name="step4b_5">Error al seleccionar</string>
+    <string name="step4b_6">Marque 3 opciones</string>
+    <string name="step4b_7">Marque no mínimo 1 opción no máximo 3 opciones</string>
+    <string name="area_1">Pectorales</string>
+    <string name="area_2">Hombros</string>
+    <string name="area_3">Espaldas</string>
+    <string name="area_4">Piernas</string>
+    <string name="area_5">Gluteus</string>
+    <string name="area_6">Abdominales</string>
+    <string name="area_7">Brazos</string>
+    <string name="area_8">Terneros</string>
+    <string name="area_9">Enfatizar</string>
+    <string name="area_10">Excluir</string>
+
+    <!-- Step 6 -->
+    <string name="step6_1">ÚLTIMO PASO</string>
+    <string name="step6_2">TU SEGURIDAD</string>
+    <string name="step6_3">Yo afirmo,</string>
+    <string name="step6_4">Que estoy en buena condición física y no sufro de ninguna condición conocida que me impediría seguir este programa de ejercicios.</string>
+    <string name="step6_5">Reconozco que el uso de este programa es voluntario y no es en absoluto requerido por LEANLIFE LLC. \ NSu consideración de mi participación en este programa, libero LEANLIFE LLC de cualquier reclamo como resultado de mi participación voluntaria Y la inscripción de los ejercicios proporcionados.</string>
+    <string name="step6_6">Haciendo clic en reconocer que usted está de acuerdo con nuestros Términos de Uso y Política de Privacidad</string>
+    <string name="step6_7">RECONOZCO</string>
+    <string name="step6_pos1">Error al enviar datos</string>
+    <string name="step6_pos2">Vuelva a intentarlo y compruebe su conexión a Internet.</string>
+    <string name="step6_pos3">Datos actualizados con éxito!</string>
+    <string name="step6_pos4">Vaya a la parte de entrenamientos para ver el nuevo entrenamiento que generamos para usted!</string>
+
+    <!-- Abas -->
+    <string name="abas_1">Entrenamiento</string>
+    <string name="abas_4">Objetivos</string>
+    <string name="abas_2">Config</string>
+    <string name="abas_3">Me</string>
+
+    <!-- TAB 1 -->
+    <string name="tab1_1">Vamos a empezar con su primer LeanCycle!</string>
+    <string name="tab1_2">Perfectamente personalizado para usted y sus objetivos!</string>
+    <string name="tab1_3">Listo para continuar el entrenamiento? \nPermite desbloquear el próximo ciclo!</string>
+    <string name="tab1_4">Listo para continuar el entrenamiento? \nVamos a desbloquear el siguiente conjunto de ejercicios!</string>
+    <string name="tab1_5">NUEVO CICLO</string>
+    <string name="tab1_6">DESBLOQUEAR</string>
+
+    <string name="tab1_7">Desbloquear más entrenamientos</string>
+    <string name="tab1_8">Llamar a 3 amigos</string>
+    <string name="tab1_9">Seleccione un plan</string>
+    <string name="tab1_10">Cancelar</string>
+
+    <string name="tab1_11">Desbloquear nuevo ciclo</string>
+    <string name="tab1_12">Generar nuevo ciclo</string>
+    <string name="tab1_13">Configurar ajustes</string>
+    <string name="tab1_14">Cancelar</string>
+
+    <string name="tab1_pos0">Ayuda</string>
+
+    <!-- TAB 2 -->
+    <string name="tab2_1">PERSONAL</string>
+    <string name="tab2_2">Género</string>
+    <string name="tab2_3">Fecha de nacimiento</string>
+    <string name="tab2_4">Unidad de medida</string>
+    <string name="tab2_5">Altura</string>
+    <string name="tab2_6">Peso</string>
+    <string name="tab2_7">Configuraciones de entrenamiento</string>
+    <string name="tab2_8">Objetivo principal</string>
+    <string name="tab2_9">Nivel de Actividad</string>
+    <string name="tab2_10">Duración de la sesión (min)</string>
+    <string name="tab2_11">Enfatizar grupo muscular</string>
+    <string name="tab2_12">Excluir grupo muscular</string>
+    <string name="tab2_13">Usted necesita guardar los cambios. Volver a configuración y guardar cambios.</string>
+
+    <!-- TAB 3 -->
+    <string name="tab3_1">Nombre y Email</string>
+    <string name="tab3_2">clic aquí</string>
+    <string name="tab3_3">Foto de perfil</string>
+    <string name="tab3_4">Cronómetro</string>
+    <string name="tab3_5">Enter</string>
+    <string name="tab3_6">Idiomas</string>
+    <string name="tab3_7">Enter</string>
+    <string name="tab3_free">Período gratuito</string>
+    <string name="tab3_free1">Hasta</string>
+    <string name="tab3_free2">Expirado</string>
+    <string name="tab3_8">Planes</string>
+    <string name="tab3_9">Enter</string>
+    <string name="tab3_10">Chame amigos</string>
+    <string name="tab3_11">Enter</string>
+    <string name="tab3_12">Opiniones</string>
+    <string name="tab3_13">clic aquí</string>
+    <string name="tab3_14">Evaluar nuestra App</string>
+    <string name="tab3_15">Ir a la tienda</string>
+    <string name="tab3_16">Términos y Condiciones</string>
+    <string name="tab3_17">clic aquí</string>
+    <string name="tab3_18">Política de privacidad</string>
+    <string name="tab3_19">clic aquí</string>
+    <string name="tab3_20">Salir</string>
+    <string name="tab3_21">clic aquí</string>
+    <string name="tab3_pos_0">Su suscription</string>
+
+    <!-- Exercícios -->
+    <string name="exercicios_1">Entrenamiento</string>
+    <string name="exercicios_2">Hecho</string>
+    <string name="exercicios_3">Saltado</string>
+
+    <!-- Exercicio esp -->
+    <string name="exercicio_1">Omitir</string>
+    <string name="exercicio_2">Descanso entre series</string>
+    <string name="exercicio_3">Click</string>
+    <string name="exercicio_4">Empezar</string>
+    <string name="exercicio_pos1">Confirmar para continuar</string>
+    <string name="exercicio_pos2">Usted perderá un progreso del temporizador.</string>
+    <string name="exercicio_pos2b">Usted perderá sus respuestas y el formulario se reiniciará, desea continuar?</string>
+    <string name="exercicio_pos3">Confirmar</string>
+    <string name="exercicio_pos4">Cancelar</string>
+    <string name="exercicio_pos5">Click</string>
+    <string name="exercicio_pos6">Começar</string>
+    <string name="exercicio_pos7">Pausar</string>
+    <string name="exercicio_pos8">Fácil</string>
+    <string name="exercicio_pos9">Medio</string>
+    <string name="exercicio_pos10">Difícil</string>
+    <string name="exercicio_pos11">No puedes modificar este ejercicio, ya ha sido enviado!</string>
+    <string name="exercicio_pos12">Usted está informando que no va a hacer este ejercicio.</string>
+    <string name="exercicio_pos13">Ingrese todos los pesos antes (con números y puntos para separar el decimal).</string>
+    <string name="exercicio_pos14">Finalizar!</string>
+
+    <!-- Congrat -->
+    <string name="congrat_0">Recompensa</string>
+    <string name="congrat_1">Enhorabuena</string>
+    <string name="congrat_2">Usted terminó su entrenamiento </string>
+    <string name="congrat_2b">de la etapa </string>
+    <string name="congrat_3">Ejercicios</string>
+    <string name="congrat_4">Conjuntos</string>
+    <string name="congrat_5">Reps</string>
+    <string name="congrat_6">Carga total</string>
+    <string name="congrat_7">LEANLIFE App - Su compañero de academia</string>
+    <string name="congrat_8">Frase motivacional</string>
+    <string name="congrat_9">\"You are awesome because you started\"</string>
+
+    <!-- Nome e Email -->
+    <string name="nomeemail_0">Datos</string>
+    <string name="nomeemail_1">Email</string>
+    <string name="nomeemail_2">Nombre</string>
+    <string name="nomeemail_3">Enviar</string>
+    <string name="nomeemail_pos_0">Sucesso</string>
+    <string name="nomeemail_pos_1">Dados enviados...</string>
+    <string name="nomeemail_pos_2">Erro</string>
+    <string name="nomeemail_pos_3">Su conexión con Internet.</string>
+    <string name="nomeemail_pos_4">Aguarde...</string>
+    <string name="nomeemail_pos_5">recibiendo datos.</string>
+    <string name="nomeemail_pos_6">Tomar la foto</string>
+    <string name="nomeemail_pos_7">Elegir de la galería</string>
+    <string name="nomeemail_pos_8">Cancelar</string>
+    <string name="nomeemail_pos_9">Seleccione la imagen</string>
+    <string name="nomeemail_pos_10">Salvando la foto ...</string>
+    <string name="nomeemail_pos_11">Cambiar la foto</string>
+
+    <!-- Cronometro -->
+    <string name="cronometro_0">Cronómetro</string>
+    <string name="cronometro_1">Vibrar y tocar</string>
+    <string name="cronometro_2">Vibrar</string>
+    <string name="cronometro_3">Silenciado</string>
+    <string name="cronometro_4">Guardar</string>
+
+    <!-- Idiomas -->
+    <string name="idioma_0">Lenguaje</string>
+    <string name="idioma_1">Inglês</string>
+    <string name="idioma_2">Español</string>
+    <string name="idioma_3">Português</string>
+    <string name="idioma_4">Guardar</string>
+
+    <!-- Plano 1 -->
+    <string name="plano_0">Suscripción</string>
+    <string name="plano_1">Suscríbete a Lean your Life en la dirección correcta.</string>
+    <string name="plano_2">Usted será capaz de cambiar sus objetivos, la duración de la sesión y los grupos musculares. El algoritmo de LEANLIFE analizará tu progreso de entrenamiento y te mantendrá en el camino correcto. \nElige LeanCycles ilimitado perfectamente adaptado a ti ya tus metas!</string>
+    <string name="plano_3">Vea nuestros precios</string>
+
+    <!-- Plano 2 -->
+    <string name="plano2_0">Suscripción</string>
+    <string name="plano2_1">Mensual: $12.99/mes *</string>
+    <string name="plano2_2">Recaudación recurrente. Cancele cuando quiera.</string>
+    <string name="plano2_3">Semestral: $9.99/mes *</string>
+    <string name="plano2_4">Cancele cuando quiera. Recaudación recurrente.</string>
+    <string name="plano2_5">Salve 24%</string>
+    <string name="plano2_6">MOST POPULAR</string>
+    <string name="plano2_7">Anual: $7.92/mes *</string>
+    <string name="plano2_8">Cancele cuando quiera. Recaudación recurrente.</string>
+    <string name="plano2_9">Salve 39%</string>
+    <string name="plano2_10">Para la vida: $399.99</string>
+    <string name="plano2_11">Pague una vez, su para siempre. Factura en un solo pago.</string>
+    <string name="plano2_12">* Vea nuestros Detalles de las facturas</string>
+    <string name="plano2_pos1">You already purchased this item with your google pay account.</string>
+    <string name="plano2_pos2">Plan Mensual</string>
+    <string name="plano2_pos3">Plan semestral</string>
+    <string name="plano2_pos4">Plan Anual</string>
+    <string name="plano2_pos5">Plan Eterno</string>
+
+    <!-- Plano 3 -->
+    <string name="plano3_0">Suscripción</string>
+    <string name="plano3_1">Para asegurar un servicio ininterrumpido, todas las suscripciones de LEANLIFE se renuevan automáticamente utilizando la tarjeta de crédito que se encuentra en el archivo. \nLas suscripciones anuales y semestrales se facturan en un solo pago en el momento de la compra y se renuevan automáticamente al final del período inicial, En el momento de la compra.\nPor favor, tenga en cuenta que si adquiere una suscripción a través de la Play Store o de nuestra aplicación para Android, la venta es definitiva y no le devolveremos ningún reembolso. Su compra estará sujeta a la política de pago de Apple, que también puede no proporcionar reembolsos.\nPuede cancelar la renovación automática seleccionando Administrar suscripciones de aplicaciones en la configuración de su cuenta de iTunes y seleccionando la suscripción que desea modificar.</string>
+
+
+    <!-- Chamar amigos -->
+    <string name="share_0">Invitar a amigos</string>
+    <string name="share_1">Invite a 3 amigos a desbloquear más 7 días gratis (funciona sólo 1 vez).</string>
+    <string name="share_2">Email</string>
+    <string name="share_3">Añadir más</string>
+    <string name="share_4">Guardar</string>
+    <string name="share_pos_0">Error al enviar invitaciones</string>
+    <string name="share_pos_1">Éxito al enviar invitaciones</string>
+    <string name="share_pos_2">Gracias por las invitaciones, más entrenamientos fueron liberados para usted.</string>
+    <string name="share_pos_3">Invitación enviada, gracias por compartir.</string>
+    <string name="share_pos_4">Algunas de las personas que usted ha puesto ya han sido invitados.</string>
+
+    <!-- Feedback -->
+    <string name="feedback_0">Feedback</string>
+    <string name="feedback_1">Utilizando una escala de 0 a 10: Qué tan probable es que recomiende LEANLIFE a un amigo o colega?</string>
+    <string name="feedback_2">Te gustaría ayudarnos a mejorar? Enviar un mensaje (opcional):</string>
+    <string name="feedback_3">Enviar</string>
+
+    <!-- Chatbot -->
+    <string name="chatbot_0">Información</string>
+    <string name="chatbot_1">Estamos aquí para ayudar, vamos a montar su primer entrenamiento juntos! Y quédese tranquilo esa información podrá ser editada después.</string>
+    <string name="chatbot_2">Haga clic para escribir</string>
+
+    <string name="chatbot_pre0">Hola</string>
+    <string name="chatbot_pre">Yo soy su asistente virtual y voy a ayudar en la construcción de su primer LeanCycle!</string>
+    <string name="chatbot_pre1">Sedentario (Sin entrenar desde hace años)</string>
+    <string name="chatbot_pre2">Activo (2-3x por semana)</string>
+    <string name="chatbot_pre3">Muy activo (4-5x por semana)</string>
+    <string name="chatbot_pre4">Atleta (6 o más por semana)</string>
+
+    <string name="chatbot_3a">Vamos a empezar ... Cuál es su objetivo principal?</string>
+    <string name="chatbot_3b">Cuál es su nivel de actividad física?</string>
+    <string name="chatbot_3c">Usted suele trabajar con Kilos o Libras?</string>
+    <string name="chatbot_3d">Legal ... Me hable un poco sobre ti ahora ... Cuál es tu altura?</string>
+    <string name="chatbot_3e">Cuál es su peso?</string>
+    <string name="chatbot_3f">Su sexo es?</string>
+    <string name="chatbot_3g">Cuando naciste?</string>
+
+    <string name="chatbot_3h">Estamos finalizando ... Vamos a hablar de su entrenamiento ahora! Cuánto tiempo se queda en promedio en el gimnasio?</string>
+    <string name="chatbot_3i">Cuáles son las áreas musculares que desea enfatizar en su nuevo entrenamiento?</string>
+    <string name="chatbot_3j">Legal! Estamos montando su entrenamiento totalmente personalizado, espere un instante ...</string>
+
+    <string name="chatbot_new1">Deje su mensaje abajo</string>
+    <string name="chatbot_new2">Gracias, le enviaremos la respuesta en su correo electrónico lo más pronto posible, si tiene más preguntas, escriba a continuación.</string>
+    <string name="chatbot_new3">Otro</string>
+    <string name="chatbot_new4">Entonces nos diga su respuesta</string>
+
+    <string name="chatbot_localtreino">Última pregunta! En qué sitio usted pretende entrenar?</string>
+    <string name="chatbot_localtreino1">En casa</string>
+    <string name="chatbot_localtreino2">Academia de edificio o club</string>
+    <string name="chatbot_localtreino3">La Academia convencional, pero todavía no me matricule</string>
+    <string name="chatbot_localtreino4">Academia convencional y ya estoy matriculado</string>
+    <string name="chatbot_localtreino5">Otro</string>
+
+    <!-- Video -->
+    <string name="concluirvideo">Omitir</string>
+
+    <!-- Desafios -->
+    <string name="desafiobaixo1">Trofeos</string>
+    <string name="desafiobaixo2">Retos</string>
+    <string name="desafiobaixo3">Premios</string>
+    <string name="desafiobaixo4">Historia</string>
+    <string name="desafiobaixo5">Retos</string>
+    <string name="desafiobaixo6">Completa hasta</string>
+    <string name="desafiobaixo7">Período</string>
+    <string name="desafiobaixo8">Primero</string>
+    <string name="desafiobaixo9">Final</string>
+    <string name="desafiobaixo10">Carga levantada</string>
+    <string name="desafiobaixo11">Carga levantada en el día</string>
+    <string name="desafiobaixo12">Posición en el ranking</string>
+
+    <!-- todos vídeos -->
+    <string name="todosvideos1">Introducción</string>
+    <string name="todosvideos2">Explicando la metodología</string>
+    <string name="todosvideos3">Consejos de entrenamiento</string>
+    <string name="todosvideos4">Consejos en la práctica</string>
+    <string name="todosvideos5">Consejos en la práctica 2</string>
+    <string name="todosvideos5b">Agradecimiento por usar LEANLIFE</string>
+
+    <!-- opções treino -->
+    <string name="localnew1">Casa</string>
+    <string name="localnew2">Academia de club básica</string>
+    <string name="localnew3">Academia de club avanzada</string>
+    <string name="localnew4">Academia completa</string>
+
+    <string name="localnew1b">Casa</string>
+    <string name="localnew2b">Alteres</string>
+    <string name="localnew3b">Barras</string>
+    <string name="localnew4b">Academia</string>
+</resources>
